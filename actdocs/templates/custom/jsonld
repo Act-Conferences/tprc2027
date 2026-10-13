@@ -3,11 +3,11 @@
 {
   "@context": "http://www.schema.org",
   "@type": "Event",
-  "name": "London Perl & Raku Workshop, 2024",
+  "name": "The Perl & Raku Conference, 2027",
   "url": "[% global.config.general_full_uri %]",
-  "description": "London Perl & Raku Workshop. Perl & Raku Conference and training in London.",
-  "startDate": "2024-10-19T09:30",
-  "endDate": "2024-10-19T18:00",
+  "description": "The Perl & Raku Conference. Perl & Raku Conference and training in London.",
+  "startDate": "2027-10-19T09:30",
+  "endDate": "2027-10-19T18:00",
   "location": {
     "@type": "Place",
     "name": "David Game College",
