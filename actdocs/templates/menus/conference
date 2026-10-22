@@ -11,7 +11,6 @@
     <li class="divider"></li>
     <li><a href="[% make_uri('team.html') %]">Organisers</a></li>
     <li><a href="[% make_uri('conduct.html') %]">Code of Conduct</a></li>
-    <li><a href="[% make_uri('slideshows.html') %]">Slideshow</a></li>
     <li class="divider"></li>
     <li><a href="[% make_uri('search') %]">User Search</a></li>
     <li><a href="[% make_uri('stats') %]">User Statistics</a></li>
